@@ -1,4 +1,4 @@
-This is a coffe project which resembles a coffee machine preparing different coffee types and computing differences in ingredience and balances provided by the user
+This is a coffe project which resembles a coffee machine preparing different coffee types and computing differences in ingredience and balances in terms of cost provided by the user
 # give choice of different coffee types
 #Expresso, Latte, Cappuccino
 
